@@ -1,0 +1,50 @@
+CODE OF CONDUCT AND ETHICS
+Document ID: HR-LEGAL-2024-001
+Effective: January 1, 2024
+
+1. PURPOSE
+
+This Code of Conduct establishes the ethical standards and behavioral expectations for all TechCorp employees, contractors, and board members. Violations may result in disciplinary action up to and including termination.
+
+2. PROFESSIONAL BEHAVIOR
+
+2.1 Workplace Respect
+All employees must treat colleagues, clients, and partners with respect and professionalism. Harassment, bullying, intimidation, or discrimination of any kind is strictly prohibited and will result in immediate investigation.
+
+2.2 Dress Code
+TechCorp maintains a business casual dress code. Client-facing meetings require business professional attire. Fridays are casual dress days. Inappropriate attire includes: torn clothing, offensive graphics or messages, beachwear, and athletic wear (except on designated wellness days).
+
+2.3 Communication Standards
+All business communications (email, Slack, meetings) must be professional and respectful. Confidential information must not be shared on personal devices or through personal email accounts. All external communications representing TechCorp must be approved by the Communications team.
+
+3. CONFLICTS OF INTEREST
+
+3.1 Disclosure
+Employees must disclose any personal, financial, or professional relationships that could create a conflict of interest. This includes: employment of family members, financial investments in competitors or vendors, and board positions at other companies.
+
+3.2 Outside Employment
+Secondary employment is permitted with manager approval, provided it does not: conflict with TechCorp's business, interfere with job performance, or use TechCorp resources.
+
+4. CONFIDENTIALITY AND DATA PROTECTION
+
+4.1 Proprietary Information
+All company trade secrets, business strategies, client data, and intellectual property are strictly confidential. Employees must sign an NDA upon hiring and annually thereafter.
+
+4.2 Data Handling
+Customer data must be handled in accordance with our Data Protection Policy (DP-2024-001). Personal data must not be stored on personal devices. All data breaches must be reported to the Security team within 1 hour of discovery.
+
+5. REPORTING VIOLATIONS
+
+5.1 Whistleblower Protection
+Employees who report violations in good faith are protected from retaliation. Reports can be made to: direct manager, HR, legal department, or the anonymous ethics hotline (1-800-ETHICS-1).
+
+5.2 Investigation Process
+All reported violations are investigated within 5 business days. The investigation is conducted by HR and Legal. Findings are presented to the Ethics Committee within 30 days. Employees under investigation are treated as innocent until proven otherwise.
+
+6. SOCIAL MEDIA POLICY
+
+6.1 Personal Use
+Employees may use personal social media during breaks. Employees must not: identify themselves as TechCorp employees when expressing personal opinions, share confidential company information, or disparage the company, colleagues, or clients.
+
+6.2 Official Accounts
+Only authorized Communications team members may post on official TechCorp social media accounts. All official posts must be approved by the Director of Communications.

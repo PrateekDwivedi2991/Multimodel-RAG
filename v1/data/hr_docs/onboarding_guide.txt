@@ -1,0 +1,75 @@
+NEW EMPLOYEE ONBOARDING GUIDE
+Document ID: HR-OPS-2024-005
+Last Updated: April 2024
+
+1. PRE-BOARDING (Before Day 1)
+
+1.1 IT Setup
+- Laptop provisioning request submitted 5 business days before start date
+- Email account and Slack workspace access created
+- VPN credentials and security tokens issued
+- Required software licenses allocated
+
+1.2 Paperwork
+- Employment contract signed via DocuSign
+- Tax forms (W-4, I-9) completed
+- Direct deposit enrollment
+- Emergency contact information
+- Benefits enrollment package sent
+
+2. WEEK 1: ORIENTATION
+
+Day 1 (Monday):
+- Welcome breakfast with team (9:00 AM)
+- HR orientation session (10:00 AM - 12:00 PM): Company overview, policies, benefits
+- Lunch with buddy/mentor (12:00 PM)
+- IT setup and security training (2:00 PM - 4:00 PM)
+- Meet with manager: 30/60/90 day plan discussion (4:00 PM)
+
+Day 2-3:
+- Department-specific orientation
+- Product/service deep-dive sessions
+- Introduction to key stakeholders
+- Access to internal tools and documentation
+
+Day 4-5:
+- Shadow experienced team members
+- Complete mandatory compliance training modules
+- Set up development environment (engineering roles)
+
+3. BUDDY PROGRAM
+
+Every new employee is assigned a buddy from a different team. The buddy provides:
+- Informal guidance on company culture and norms
+- Lunch buddy for the first 2 weeks
+- Monthly check-ins for the first 3 months
+- The buddy is NOT a substitute for the manager or HR
+
+4. REQUIRED TRAINING (First 30 Days)
+
+All employees must complete:
+- Information Security Awareness (2 hours, online)
+- Anti-Harassment Training (1 hour, online)
+- Data Privacy and GDPR Compliance (1.5 hours, online)
+- Company Values Workshop (3 hours, in-person)
+- Fire Safety and Emergency Procedures (30 minutes, in-person)
+
+5. 30/60/90 DAY MILESTONES
+
+30 Days:
+- Complete all mandatory training
+- Understand team structure and key stakeholders
+- Begin contributing to assigned project
+- First 1:1 review with manager
+
+60 Days:
+- Independently handle routine tasks
+- Contribute meaningfully to team meetings
+- Complete at least one project deliverable
+- Second 1:1 review with manager
+
+90 Days:
+- End of probationary period review
+- Fully ramped and productive
+- Benefits eligibility confirmed
+- Performance goals set for remainder of year
