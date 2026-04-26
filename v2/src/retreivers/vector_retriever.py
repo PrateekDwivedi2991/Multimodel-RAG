@@ -1,19 +1,17 @@
 import os
 import sys
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from src.config import DEPT_INDEX_PATHS, EMBEDDING_MODEL, OPENAI_API_KEY, TOP_K_PER_DEPT,DEPT_FOLDERS,DEPARTMENTS
-
 
 class MultiDeptVectorRetriever:
     """Loads and searches per-department FAISS indexes."""
 
     def __init__(self):
         self.embeddings = OpenAIEmbeddings(
-            model=EMBEDDING_MODEL, openai_api_key=OPENAI_API_KEY,
-        )
+            model=EMBEDDING_MODEL,openai_api_key=OPENAI_API_KEY)
         self.stores = {}
         self._load_indexes()
 
